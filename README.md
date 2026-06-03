@@ -1,5 +1,7 @@
-# ☕ Coffee Project
+<div align="center">
 
+  # ☕ Coffee Project
+</div>
 <div align="center">
 
 ### A Modern Coffee Shop Website
